@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Lorenzo%20Bay-Müller&section=header&reversal=false&textBg=false&animation=scaleIn" width="100%" alt="Header banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=280&section=header&text=ProfessorQuantumUniverse&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Exploring%20the%20Universe%20Through%20Code&descSize=22&descAlignY=60&descAlign=50" width="100%" alt="Header banner"/>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🔭+Physicist+%7C+Programmer+%7C+Explorer;🌌+Turning+ideas+into+reality...)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,3 +25,5 @@ I currently exist in a superposition of *writing new features* and *debugging (m
 
 ---
 ⭐️ *“If you wish to make an apple pie from scratch, you must first invent the universe.”* ― Carl Sagan
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Lorenzo%20Bay-Müller&section=footer&reversal=false&textBg=false&animation=scaleIn" width="100%" alt="Header banner"/>
