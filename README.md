@@ -23,6 +23,12 @@ I currently exist in a superposition of *writing new features* and *debugging (m
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,kotlin)](https://skillicons.dev)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 ⭐️ *“If you wish to make an apple pie from scratch, you must first invent the universe.”* ― Carl Sagan
 
