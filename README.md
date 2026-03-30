@@ -23,11 +23,17 @@ I currently exist in a superposition of *writing new features* and *debugging (m
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,kotlin)](https://skillicons.dev)
 
+## Some differnt ways to display my contribution history.... you can choose what you like most!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfessorQuantumUniverse/ProfessorQuantumUniverse/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProfessorQuantumUniverse/ProfessorQuantumUniverse/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ProfessorQuantumUniverse/ProfessorQuantumUniverse/output/github-contribution-grid-snake.svg">
 </picture>
+
+### OR
+
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=professorquantumuniverse&stats=true&credit=true)
 
 ---
 ⭐️ *“If you wish to make an apple pie from scratch, you must first invent the universe.”* ― Carl Sagan
