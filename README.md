@@ -6,6 +6,9 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🔭+Physicist+%7C+Programmer+%7C+Explorer;🌌+Turning+ideas+into+reality...)](https://git.io/typing-svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=professorquantumuniverse&label=Profile%20views&color=0e75b6&style=flat" alt="professorquantumuniverse" /> </p>
+
+
 </div>
 
 # Greetings!!!
