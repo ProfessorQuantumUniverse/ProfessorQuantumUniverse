@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Lorenzo%20Bay-Müller&section=header&reversal=false&textBg=false&animation=scaleIn" width="100%" alt="Header banner"/>
+
+</div>
+
 # Greetings!!!
 
 Welcome to the digital laboratory of me, **Professor Quantum Universe**. 
