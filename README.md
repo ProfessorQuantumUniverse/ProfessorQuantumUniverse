@@ -37,7 +37,3 @@ I currently exist in a superposition of *writing new features* and *debugging (m
 
 ---
 ⭐️ *“If you wish to make an apple pie from scratch, you must first invent the universe.”* ― Carl Sagan
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Lorenzo%20Bay-Müller&section=footer&reversal=false&textBg=false&animation=scaleIn" width="100%" alt="Header banner"/>
-
-BLUEBAY-7Q4M-ORBIT <<
